@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (אם תעבוד עם כזה בעתיד)
+venv/
+env/
+
+# Temporary subtitle files created by our script
+*_temp.srt
+
+# OS generated files
+.DS_Store
+Thumbs.db

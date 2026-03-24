@@ -1,0 +1,1 @@
+python auto_sub_translator.py
